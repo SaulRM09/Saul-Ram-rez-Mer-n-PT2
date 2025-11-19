@@ -6,14 +6,43 @@ En primer lloc, hauríem de tenir una sessió iniciada a IsardVDI per poder crea
 
 ### 2. Configurar una màquina virtual per allotjar ownCloud
 Després d’haver creat la màquina virtual, cal preparar l’entorn perquè sigui possible instal·lar-hi ownCloud. Per fer-ho, haurem de seguir els passos que s’indiquen a continuació. Per començar, obrirem el nostre terminal i executarem les ordres següents.
+
 ### 2.1 Actualitza el sistema
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
+
 ### 2.2 Instal·la Apache
 ```bash
 sudo apt install apache2 -y
 ```
+#### Activa i inicia el servei:
+```bash
+sudo systemctl enable apache2
+sudo systemctl start apache2
+```
+#### Verifica l’estat:
+```bash
+sudo systemctl status apache2
+```
+Visita ```http://localhost``` per veure la pàgina per defecte d’Apache.
+
+### 2.3 Instal·la MySQL
+Ubuntu 24.04 ja inclou el paquet ```mysql-server``` als repositoris oficials (versió 8.0 o superior):
+```bash
+sudo apt install mysql-server mysql-client -y
+```
+#### Inicia i habilita el servei:
+```bash
+sudo systemctl enable mysql
+sudo systemctl start mysql
+```
+#### Configura de MySQL:
+#### Accés a la consola de MySQL
+```bash
+sudo mysql
+```
+
 
 ---
 #### 3. Instal·lació del gestor d’arxius Nextcloud:
