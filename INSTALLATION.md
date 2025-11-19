@@ -10,8 +10,10 @@ Després d’haver creat la màquina virtual, cal preparar l’entorn perquè si
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
-
-
+### 2.2 Instal·la Apache
+```bash
+sudo apt install apache2 -y
+```
 
 ---
 #### 3. Instal·lació del gestor d’arxius Nextcloud:
