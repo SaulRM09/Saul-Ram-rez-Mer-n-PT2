@@ -42,6 +42,21 @@ sudo systemctl start mysql
 ```bash
 sudo mysql
 ```
+#### Creació de la base de dades
+```bash
+CREATE DATABASE bbdd;
+```
+#### Creació de l’usuari local
+```bash
+CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+GRANT ALL PRIVILEGES ON bbdd.* TO 'usuario'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+```
+>  ⚠️ **NOTA:** Aquest usuari només pot connectar-se des del servidor local (```localhost```), cosa que és suficient si l’aplicació web i la base de dades estan al mateix servidor.
+
+
+
 
 
 ---
