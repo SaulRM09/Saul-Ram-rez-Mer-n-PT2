@@ -9,6 +9,8 @@ En primer lloc, hauríem de tenir una sessió iniciada a IsardVDI per poder crea
 ![3.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/3.png)
 >  ⚠️ **NOTA:** És recomanable iniciar-lo amb el visor SPACE
 ### 1.1 Abrir terminal
+Un cop dins de la màquina virtual, iniciarem sessió i ens dirigirem al terminal.
+![6.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/6.png)
 
 
 
