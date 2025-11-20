@@ -5,7 +5,7 @@
 En primer lloc, hauríem de tenir una sessió iniciada a IsardVDI per poder crear la màquina virtual. Per crear la màquina virtual, hem d’anar a la icona blava on diu **“Escriptori nou”**. Dins d’aquest apartat, hauríem de buscar **“ubuntu-24.04-desktop”**. Després d’això, li posem el nom que vulguem al nou escriptori i l’iniciem.
 
 ![1.jpg](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/1.jpg)
-
+![2.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/2.png)
 
 
 
