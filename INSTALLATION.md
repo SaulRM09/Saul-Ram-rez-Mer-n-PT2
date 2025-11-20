@@ -8,6 +8,8 @@ En primer lloc, hauríem de tenir una sessió iniciada a IsardVDI per poder crea
 ![2.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/2.png)
 ![3.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/3.png)
 >  ⚠️ **NOTA:** És recomanable iniciar-lo amb el visor SPACE
+### 1.1 Abrir terminal
+
 
 
 
