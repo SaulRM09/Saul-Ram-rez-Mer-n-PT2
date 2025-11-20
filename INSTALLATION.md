@@ -6,7 +6,7 @@ En primer lloc, hauríem de tenir una sessió iniciada a IsardVDI per poder crea
 
 ![1.jpg](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/1.jpg)
 ![2.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/2.png)
-
+![3.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/3.png)
 
 
 
