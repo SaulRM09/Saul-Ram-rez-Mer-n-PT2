@@ -243,7 +243,7 @@ En aquest apartat explicaré com instal·lar Nextcloud en un entorn on ja dispos
 Aquí haurem d’accedir a l’enllaç indicat. En el moment de fer-hi clic, el fitxer començarà a descarregar-se automàticament.
 
 ### 1.1. Enllaços 
-- **Nextcloud**: [https://download.nextcloud.com/server/releases/latest.zip](https://download.nextcloud.com/server/releases/latest.zip
+- **Nextcloud**: https://download.nextcloud.com/server/releases/latest.zip](https://download.nextcloud.com/server/releases/latest.zip
   
 ### 1.2. Passos d’instal·lació
 
