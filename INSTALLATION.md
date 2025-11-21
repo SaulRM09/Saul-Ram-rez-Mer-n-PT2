@@ -25,11 +25,13 @@ sudo apt update && sudo apt upgrade -y
 ![10.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/10.png)
 ![11.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/11.png)
 
-
 ### 2.2 Instal·la Apache
 ```bash
 sudo apt install apache2 -y
 ```
+![12.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/12.png)
+
+
 #### Activa i inicia el servei:
 ```bash
 sudo systemctl enable apache2
