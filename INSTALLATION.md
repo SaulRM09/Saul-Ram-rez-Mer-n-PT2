@@ -23,6 +23,8 @@ Després d’haver creat la màquina virtual, cal preparar l’entorn perquè si
 sudo apt update && sudo apt upgrade -y
 ```
 ![10.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/10.png)
+![11.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/11.png)
+
 
 ### 2.2 Instal·la Apache
 ```bash
