@@ -30,7 +30,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install apache2 -y
 ```
 ![12.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/12.png)
-
+![13.png](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/13.png)
 
 #### Activa i inicia el servei:
 ```bash
