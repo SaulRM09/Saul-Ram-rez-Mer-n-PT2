@@ -269,6 +269,57 @@ Aquí haurem d’accedir a l’enllaç indicat. En el moment de fer-hi clic, el 
     ```bash
     wget https://download.nextcloud.com/server/releases/latest.zip
    ```
+**Descomprimeix l’arxiu directament al directori**:
+
+   - **Heu descarregat l'arxiu a una ruta qualsevol**
+   ```bash
+   sudo unzip /ruta/al/arxiu.zip
+   ```
+   > Si l’arxiu crea una carpeta interna (ex: `nextcloud/` o `owncloud/`), assegura’t que el contingut es mogui **al nivell arrel** del virtual host:
+   ```bash
+   sudo mv nextcloud/* . && sudo rmdir nextcloud
+   # o
+   sudo mv owncloud/* . && sudo rmdir owncloud
+   ```
+
+   - **Podeu fer això directament si ho teniu descomprimit a `Descargas`:**
+   ```bash
+   cp -R ~/Descargas/nextcloud/. /var/www/domini.local/.
+   ```
+   Elimineu la carpeta `nextcloud` i l'arxiu `latest.zip`
+    ```bash
+    sudo rm -rf ~/Descargas/nextcloud && sudo rm -rf ~/Descargas/latest.zip
+    ```
+
+   - **Podeu fer això directament si ho teniu descomprimit a `/var/www/domini.local`:**
+   ```bash
+   cp -R /var/www/domini.local/nextcloud/. /var/www/domini.local/.
+   ```
+   Elimineu la carpeta `nextcloud` i l'arxiu `latest.zip`
+    ```bash
+    sudo rm -rf /var/www/domini.local/nextcloud && sudo rm -rf /var/www/domini.local/latest.zip
+    ```
+6. **Assegura els permisos correctes**:
+   ```bash
+   sudo chown -R www-data:www-data /var/www/domini.local
+   sudo chmod -R 755 /var/www/domini.local
+   ```
+
+7. **Accedeix a la interfície web**:
+   Obre el navegador i visita:
+   ```
+   http://domini.local
+   ```
+   Segueix les instruccions de configuració assistida:
+   - Crea un usuari administrador.
+   - Configura la base de dades (recomanat: MariaDB/MySQL).
+   - Verifica que tots els requisits del sistema es compleixin.
+
+## 2. Recomanacions addicionals
+
+- **Directori de dades**: Durant la instal·lació, es recomana **no emmagatzemar les dades dins del directori web** (ex: `/var/www/domini.local/data`). Millor usa una ruta externa com `/var/ncdata` o `/opt/owncloud-data`.
+- **Còpies de seguretat**: Fes *backups* regulars del directori de dades i de la base de dades.
+- **Seguretat**: Desactiva l’accés a fitxers sensibles (`.htaccess`, `config.php`) i considera afegir regles de seguretat addicionals a Apache o Nginx.
 
 
 
