@@ -1,6 +1,6 @@
 # configuració de Nextcloud
 
-### Demostració del funcionament:
+### Demostració del funcionament del meu Nextcloud
 
 ---
 
