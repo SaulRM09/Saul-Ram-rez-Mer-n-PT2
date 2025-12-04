@@ -33,7 +33,13 @@ Ya despues de haber creado ese nuevo usuario ya podrémos cerrar sesion de la cu
 
 
 ## 4.assignacion de roles y permisos
+Para poder assignar roles y permisos a nuestros usuario lo que deberemos de hacer es crear grupos. Para poder crear un grupo lo unico que deberemos de hacer es ponerle el nombre que queramos, como por ejemplo: Editor, Visualizador y administrador. 
+> **NOTA:** Para que los usuarios aparescan en los grupos hace falta que le asignemos que grupo queremos que esten.
+![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/38.png)
+Ya teniendo los usuarios creados y  los grupos podemos ir a un archivo selecionar compartir y compartir el archivo o la carpeta por grupos y assignarles los permisos que les corespondan a cada uno.
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/26.png)
+![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/36.png)
+![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/37.png)
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/27.png)
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/29.png)
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/31.png)
