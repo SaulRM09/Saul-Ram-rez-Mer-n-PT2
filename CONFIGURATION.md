@@ -47,7 +47,7 @@ Perquè Nextcloud es pugui utilitzar des de qualsevol ordinador o dispositiu con
 
 Un cop el servidor té aquesta adreça fixa, cal comprovar que els ports de comunicació estiguin oberts. Nextcloud normalment funciona amb el port 443, que s’utilitza per a connexions segures (HTTPS). Si aquest port està disponible, qualsevol equip de la xarxa s’hi podrà connectar sense dificultat.
 
-Quan tot això està preparat, des d’un altre ordinador només cal obrir un navegador i escriure l’adreça del servidor, per exemple https:s//192.168.1.100. En fer-ho, apareixerà la pantalla d’inici de sessió de Nextcloud i l’usuari podrà entrar amb el seu nom i contrasenya.
+Quan tot això està preparat, des d’un altre ordinador només cal obrir un navegador i escriure l’adreça del servidor, per exemple https://192.168.1.100. En fer-ho, apareixerà la pantalla d’inici de sessió de Nextcloud i l’usuari podrà entrar amb el seu nom i contrasenya.
 
 A més de l’accés per navegador, també es pot instal·lar el programa oficial de Nextcloud a l’ordinador o al mòbil. Aquest programa permet sincronitzar carpetes i fitxers automàticament, de manera que l’usuari sempre tingui els seus documents actualitzats a tots els dispositius. Per configurar-lo, només cal posar la mateixa adreça del servidor i les credencials d’accés.
 
