@@ -26,6 +26,7 @@ Al nostre Nextcloud podem compartir fitxers, carpetes i moltes altres coses. A l
 Para poder crear nuevos usuarios lo que haremos será dirigirnos a nuestro perfil y clicar donde pone cuentas. Dentro de allí le darenmos a crear cuenta nueva, nos saltara una pestaña donde tendremos que colocar: el nombre que tendrá el usuario, una contraseña y un correo electronico. 
 > **NOTA:** no hace falta que los datos que pongas sean reales, solo tendrás que arecordarte de lo que pongas
 
+Ya despues de haber creado ese nuevo usuario ya podrémos cerrar sesion de la cuenta actual y iniciar sesion en la nueva.
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/23.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/35.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/28.png)
