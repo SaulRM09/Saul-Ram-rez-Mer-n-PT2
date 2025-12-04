@@ -2,20 +2,20 @@
 
 ### Demostració del funcionament del meu Nextcloud
 ---
-## 1. Creación de carpetas y cubida de archivos
+## 1. Creació de carpetes i pujada de fitxers
 Per demostrar que el nostre Nextcloud funciona haurem de fer lo seguent:
 
-En primer luhar tendremos que subir cual quier archivo para comprobar el funciamiento de nuestro nextcloud, para eso deberemos seguir los pasos que podemos ver en las dos imagenes inferiores.
+En primer lloc haurem de pujar qualsevol fitxer per comprovar el funcionament del nostre Nextcloud; per a això, haurem de seguir els passos que podem veure a les dues imatges inferiors.
 ![Subidas de archivos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/14.png)
 ![Subidas de archivos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/15.png)
 ![Subidas de archivos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/16.png)
 ![Subidas de archivos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/17.png)
 
 ---
-Seguidamente de esto crearemos las carpetas:
+Tot seguit, crearem les carpetes:
 ![Creación de carpetas](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/18.png)
-## 2. Compartir contenido
-En nuestro Nextcloud podemos compartir archivos, carpetas, entre mas cosas. Al momento de compartir este documento tenemos dos forma de hacerlo: Enlace publico o a los diferentes grupos de usuarios que tengamos creados.
+## 2. Compartir contingut
+Al nostre Nextcloud podem compartir fitxers, carpetes i moltes altres coses. A l’hora de compartir aquest document, tenim dues maneres de fer-ho: mitjançant un enllaç públic o bé amb els diferents grups d’usuaris que tinguem creats.
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/19.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/20.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/22.png)
@@ -23,6 +23,9 @@ En nuestro Nextcloud podemos compartir archivos, carpetas, entre mas cosas. Al m
 
 ---
 ## 3.creación de usuarios
+Para poder crear nuevos usuarios lo que haremos será dirigirnos a nuestro perfil y clicar donde pone cuentas. Dentro de allí le darenmos a crear cuenta nueva, nos saltara una pestaña donde tendremos que colocar: el nombre que tendrá el usuario, una contraseña y un correo electronico. 
+> **NOTA:** no hace falta que los datos que pongas sean reales, solo tendrás que arecordarte de lo que pongas
+
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/23.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/35.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/28.png)
