@@ -1,8 +1,8 @@
-# Enlaces a los apartado
+# Enllaços als apartats
 
 ---
 
-Dede aquí podreis acceder directamente a:
+Des d’aquí podeu accedir directament a:
 
 [INSTALLATION](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/INSTALLATION.md)
 
