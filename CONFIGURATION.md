@@ -14,3 +14,4 @@ En primer luhar tendremos que subir cual quier archivo para comprobar el funciam
 ---
 Seguidamente de esto crearemos las carpetas:
 ![Creación de carpetas](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/18.png)
+## 2. Compartir contenido
