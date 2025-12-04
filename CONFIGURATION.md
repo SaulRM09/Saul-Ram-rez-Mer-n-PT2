@@ -22,11 +22,13 @@ Al nostre Nextcloud podem compartir fitxers, carpetes i moltes altres coses. A l
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/24.png)
 
 ---
-## 3.creación de usuarios
-Para poder crear nuevos usuarios lo que haremos será dirigirnos a nuestro perfil y clicar donde pone cuentas. Dentro de allí le darenmos a crear cuenta nueva, nos saltara una pestaña donde tendremos que colocar: el nombre que tendrá el usuario, una contraseña y un correo electronico. 
-> **NOTA:** no hace falta que los datos que pongas sean reales, solo tendrás que arecordarte de lo que pongas
+## 3. Creació d’usuaris
 
-Ya despues de haber creado ese nuevo usuario ya podrémos cerrar sesion de la cuenta actual y iniciar sesion en la nueva.
+Per poder crear nous usuaris, el que farem serà dirigir-nos al nostre perfil i prémer on diu Comptes. Dins d’aquest apartat, clicarem a Crear compte nou. Ens apareixerà una finestra emergent en què haurem d’indicar: el nom que tindrà l’usuari, una contrasenya i un correu electrònic.
+
+> **NOTA:** No cal que les dades que introdueixis siguin reals; només t’has de recordar del que hagis posat.
+
+Després d’haver creat aquest nou usuari, ja podrem tancar la sessió del compte actual i iniciar sessió amb el nou.
 ![Creacion de usuarios](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/23.png)
 ![Creacion de usuarios](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/35.png)
 ![Creacion de usuarios](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/28.png)
@@ -34,12 +36,16 @@ Ya despues de haber creado ese nuevo usuario ya podrémos cerrar sesion de la cu
 ![Creacion de usuarios](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/40.png)
 ![Creacion de usuarios](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/41.png)
 
-## 4.assignacion de roles y permisos
-Para poder assignar roles y permisos a nuestros usuario lo que deberemos de hacer es crear grupos. Para poder crear un grupo lo unico que deberemos de hacer es ponerle el nombre que queramos, como por ejemplo: Editor, Visualizador y administrador. 
-> **NOTA:** Para que los usuarios aparescan en los grupos hace falta que le asignemos que grupo queremos que esten.
+## 4. Assignació de rols i permisos
+
+Per poder assignar rols i permisos als nostres usuaris, el que haurem de fer és crear grups. Per crear un grup, l’únic que necessitem és posar-hi el nom que vulguem, per exemple: Editor, Visualitzador i Administrador.
+
+> **NOTA:** Perquè els usuaris apareguin en els grups, és necessari assignar-los al grup al qual volem que pertanyin.
+> 
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/38.png)
 
-Ya teniendo los usuarios creados y  los grupos podemos ir a un archivo selecionar compartir y compartir el archivo o la carpeta por grupos y assignarles los permisos que les corespondan a cada uno.
+Un cop tinguem els usuaris i els grups creats, podrem anar a un fitxer, seleccionar Compartir i compartir el fitxer o carpeta per grups, assignant a cada un els permisos corresponents.
+
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/26.png)
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/36.png)
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/37.png)
@@ -48,17 +54,18 @@ Ya teniendo los usuarios creados y  los grupos podemos ir a un archivo seleciona
 >Editor
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/44.png)
 
->Visualizador
+>Visualitzador
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/43.png)
 
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/29.png)
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/31.png)
 
 ---
-## 5.Administració d’arxius i seguretat
-Para hacer este apartados deberemos de crear una carpeta llamada (projecto) que compartiremos con los grupos que hemos creado,  y dentro de esa carpeta crearemos subcarpetas llamadas: Documentos, entregables y recursos. Y en todas ellas compartidas con los grupos creados. 
+## 5. Administració d’arxius i seguretat
 
-Despues de haber compartidos las carpetas con los grupos, lo que haremos será crear un enlace publico el cual le colocaremos una fecha de vencimiento y una contraseña cualquiera. Tras hacer eso, copiaremos el enlace publico y lo colocamos en nuestro navegador, en el momento de colocarlo nos llevará a una pestaña donde tendremos que colocar la contraseña que hemos puesto para poder acceder a la carpeta
+Per fer aquest apartat, haurem de crear una carpeta anomenada projecte, que compartirem amb els grups que hem creat. Dins d’aquesta carpeta, crearem subcarpetes anomenades: Documents, Lliurables i Recursos, totes elles també compartides amb els grups creats.
+
+Després d’haver compartit les carpetes amb els grups, crearem un enllaç públic, al qual li posarem una data de venciment i una contrasenya qualsevol. Un cop fet això, copiarem l’enllaç públic i l’enganxarem al navegador. En accedir-hi, apareixerà una finestra on haurem d’introduir la contrasenya que hem establert per poder accedir a la carpeta.
 
 ![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/31.png)
 ![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/32.png)
@@ -67,7 +74,7 @@ Despues de haber compartidos las carpetas con los grupos, lo que haremos será c
 ![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/45.png)
 
 ---
-## 6.Accés des d’una màquina qualsevol de la xarxa:
+## 6.Accés des d’una màquina qualsevol de la xarxa
 
 Perquè Nextcloud es pugui utilitzar des de qualsevol ordinador o dispositiu connectat a la mateixa xarxa, el primer és assegurar-se que el servidor on està instal·lat tingui una adreça fixa. Això significa que sempre tindrà la mateixa “adreça” dins de la xarxa, i així els altres equips el podran trobar sense problemes.
 
