@@ -2,4 +2,4 @@
 
 ### Demostració del funcionament del meu Nextcloud
 ---
-Para nosotros demostrar que funciona nuestro Nextcloud deberemos de hacer
+Per demostrar que el nostre Nextcloud funciona haurem de fer
