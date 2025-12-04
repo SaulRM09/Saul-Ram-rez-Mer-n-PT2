@@ -4,4 +4,4 @@
 ---
 Per demostrar que el nostre Nextcloud funciona haurem de fer lo seguent:
 
-![Montage de equipos](https://informaticalescorts.com/wp-content/uploads/2015/10/MONTAJE-ORDENDAORES.jpg)
+![Subidas de archivos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/14.png)
