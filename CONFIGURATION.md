@@ -57,8 +57,7 @@ Un cop tinguem els usuaris i els grups creats, podrem anar a un fitxer, seleccio
 >Visualitzador
 ![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/43.png)
 
-![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/29.png)
-![assignacion de roles y permisos](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/31.png)
+
 
 ---
 ## 5. Administració d’arxius i seguretat
