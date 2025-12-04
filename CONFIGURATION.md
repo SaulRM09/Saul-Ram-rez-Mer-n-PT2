@@ -24,6 +24,7 @@ En nuestro Nextcloud podemos compartir archivos, carpetas, entre mas cosas. Al m
 ---
 ## 3.creación de usuarios
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/23.png)
+![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/35.png)
 ![Compartir contenido](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/28.png)
 
 
