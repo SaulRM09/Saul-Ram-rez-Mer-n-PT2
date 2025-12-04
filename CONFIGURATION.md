@@ -1,4 +1,4 @@
-# configuració de Nextcloud
+# Configuració de Nextcloud
 
 ### Demostració del funcionament del meu Nextcloud
 ---
