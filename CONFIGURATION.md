@@ -56,7 +56,10 @@ Ya teniendo los usuarios creados y  los grupos podemos ir a un archivo seleciona
 
 ---
 ## 5.Administració d’arxius i seguretat
-Para hacer este apartados deberemos de crear una carpeta
+Para hacer este apartados deberemos de crear una carpeta llamada (projecto) que compartiremos con los grupos que hemos creado,  y dentro de esa carpeta crearemos subcarpetas llamadas: Documentos, entregables y recursos. Y en todas ellas compartidas con los grupos creados. 
+
+Despues de haber compartidos las carpetas con los grupos, lo que haremos será crear un enlace publico el cual le colocaremos una fecha de vencimiento y una contraseña cualquiera. Tras hacer eso, copiaremos el enlace publico y lo colocamos en nuestro navegador, en el momento de colocarlo nos llevará a una pestaña donde tendremos que colocar la contraseña que hemos puesto para poder acceder a la carpeta
+
 ![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/31.png)
 ![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/32.png)
 ![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/33.png)
